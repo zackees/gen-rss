@@ -1,0 +1,6 @@
+types-python-dateutil
+python-dateutil
+pytz
+types-pytz
+feedparser
+genrss
